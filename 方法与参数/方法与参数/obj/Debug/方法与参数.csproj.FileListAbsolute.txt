@@ -1,0 +1,6 @@
+D:\Develop\Vsdevelop\c#\方法与参数\方法与参数\bin\Debug\方法与参数.exe.config
+D:\Develop\Vsdevelop\c#\方法与参数\方法与参数\bin\Debug\方法与参数.exe
+D:\Develop\Vsdevelop\c#\方法与参数\方法与参数\bin\Debug\方法与参数.pdb
+D:\Develop\Vsdevelop\c#\方法与参数\方法与参数\obj\Debug\方法与参数.csprojResolveAssemblyReference.cache
+D:\Develop\Vsdevelop\c#\方法与参数\方法与参数\obj\Debug\方法与参数.exe
+D:\Develop\Vsdevelop\c#\方法与参数\方法与参数\obj\Debug\方法与参数.pdb
